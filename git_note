@@ -1,0 +1,22 @@
+# Git status
+
+git status
+
+_________________________
+# Git commit
+
+git commit -m "Comment the code"
+
+______________________________
+
+# add to git 
+
+git add codename
+
+__________________________
+
+# git tagline
+
+git checkout version min4digit
+
+______________________
