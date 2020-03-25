@@ -1,0 +1,2 @@
+# Notes
+Session on git
